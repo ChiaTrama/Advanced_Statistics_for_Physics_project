@@ -4,7 +4,7 @@
 
 # Bayesian Analysis of ARPAV Time Series on Temperatures
 
-This project implements a **Bayesian analysis** of temperature data collected by **ARPAV** (Agenzia Regionale per la Prevenzione e Protezione Ambientale del Veneto). It was developed as part of the course **Advanced Statistics for Physics Analysis**, academic year 2023-2024.
+This project implements a **Bayesian analysis** of temperature data collected by **ARPAV** (Agenzia Regionale per la Prevenzione e Protezione Ambientale del Veneto) using R. It was developed as part of the course **Advanced Statistics for Physics Analysis**, academic year 2023-2024.
 
 ---
 
